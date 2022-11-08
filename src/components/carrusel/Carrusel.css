@@ -1,0 +1,16 @@
+
+.bodyCarrusel{
+    width: 100%;
+   min-height: auto;
+}
+
+
+
+.bodyCards{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: rgb(215, 79, 79);
+}

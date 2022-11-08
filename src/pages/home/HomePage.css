@@ -1,0 +1,13 @@
+.bodyCards{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    background: rgb(58,77,180);
+background: linear-gradient(72deg, rgba(58,77,180,1) 9%, rgba(122,29,253,1) 74%);
+   
+}
+.BodyPagination{
+    background: rgb(58,77,180);
+    background: linear-gradient(72deg, rgba(58,77,180,1) 9%, rgba(122,29,253,1) 74%);  
+}

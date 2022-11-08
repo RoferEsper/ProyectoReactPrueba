@@ -1,0 +1,15 @@
+.cardsContainer {
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    background: rgb(33,43,96);
+background: linear-gradient(72deg, rgba(33,43,96,1) 45%, rgba(89,50,144,1) 100%);
+    border-radius: 20px;
+    
+}
+
+.cardsContainer:hover {
+    border-radius: 30px ;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
